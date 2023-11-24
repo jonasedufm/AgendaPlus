@@ -49,7 +49,7 @@ namespace Agenda_Plus
             SetWatermark(Box_CNPJ, "Digite o CNPJ do fornecedor");
             SetWatermark(Box_Rua, "Digite o Endereço");
             SetWatermark(Box_Cep, "Digite o CEP");
-            SetWatermark(Box_Cidade, "Digite a Cidade");
+            SetWatermark(Box_Cidade, "Digite a Cidade e Estado");
             SetWatermark(Box_InscriEst, "Digite a Inscrição Estadual");
             SetWatermark(Box_Bairro, "Digite o Bairro");
             SetWatermark(Box_Contato, "Um nome para Contato");
@@ -89,6 +89,16 @@ namespace Agenda_Plus
         }
 
         private void city_lbl_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Box_Cep_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cep_lbl_Click(object sender, EventArgs e)
         {
 
         }
