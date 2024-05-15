@@ -1,0 +1,10 @@
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\bin\Debug\Agenda Plus.exe.config
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\bin\Debug\Agenda Plus.exe
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\bin\Debug\Agenda Plus.pdb
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda Plus.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda_Plus.FormMain.resources
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda_Plus.Properties.Resources.resources
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda Plus.csproj.GenerateResource.cache
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda Plus.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda Plus.exe
+C:\Users\jonas\OneDrive\Desktop\Alguns\AgendaPlus\Agenda Plus\Agenda Plus\obj\Debug\Agenda Plus.pdb
